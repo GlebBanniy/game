@@ -15,9 +15,13 @@
 ЧИСЛО ХОДОВ МОЖЕТ БЫТЬ ЛЮБЫМ (нечетным > 1, зависит от переданных параметров), не зашито в коде.
 
 Пример:
+
 >java -jar game.jar rock paper scissors lizard Spock
+>
 HMAC: FAAC40C71B4B12BF0EF5556EEB7C06925D5AE405D447E006BB8A06565338D411
+
 Available moves:
+
 1 - rock
 2 - paper
 3 - scissors
@@ -25,8 +29,13 @@ Available moves:
 5 - Spock
 0 - exit
 ? - help
+
 Enter your move: 2
+
 Your move: paper
+
 Computer move: rock
+
 You win!
+
 HMAC key: BD9B5544739FCE7359C267E734E380A2
